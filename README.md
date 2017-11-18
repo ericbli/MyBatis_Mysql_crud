@@ -6,7 +6,7 @@ _______________________________________
 result will be:
 ---Data saved---
 ---Data updated---
-id:2, Name:Crossing Republic, District:Ghaziabad
+id:1, Name:Crossing Republic, District:Ghaziabad
 ---Data deleted---
 
 Process finished with exit code 0
