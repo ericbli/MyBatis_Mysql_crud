@@ -1,4 +1,4 @@
-package com.concretepage;
+package com.eric;
 public class Village {
 	private Integer vid;
 	private String villageName;

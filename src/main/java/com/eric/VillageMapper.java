@@ -1,4 +1,4 @@
-package com.concretepage;
+package com.eric;
 
 import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.Insert;

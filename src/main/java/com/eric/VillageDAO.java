@@ -1,4 +1,4 @@
-package com.concretepage;
+package com.eric;
 
 import org.apache.ibatis.session.SqlSession;
 

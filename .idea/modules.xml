@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyBatisDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/MyBatisDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyBatisDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MyBatisDemo_main.iml" group="MyBatisDemo" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyBatisDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MyBatisDemo_test.iml" group="MyBatisDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyBatis_Mysql_crud.iml" filepath="$PROJECT_DIR$/.idea/modules/MyBatis_Mysql_crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyBatis_Mysql_crud_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MyBatis_Mysql_crud_main.iml" group="MyBatis_Mysql_crud" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyBatis_Mysql_crud_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MyBatis_Mysql_crud_test.iml" group="MyBatis_Mysql_crud" />
     </modules>
   </component>
 </project>

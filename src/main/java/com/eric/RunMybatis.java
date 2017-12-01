@@ -1,4 +1,4 @@
-package com.concretepage;
+package com.eric;
 
 
 public class RunMybatis {

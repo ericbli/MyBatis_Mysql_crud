@@ -8,13 +8,13 @@
       <transactionManager type="JDBC"/>
       <dataSource type="POOLED">
         <property name="driver" value="com.mysql.jdbc.Driver"/>
-        <property name="url" value="jdbc:mysql://localhost/concretepage"/>
+        <property name="url" value="jdbc:mysql://localhost/eric"/>
         <property name="username" value="root"/>
         <property name="password" value=""/>
       </dataSource>
     </environment>
   </environments>
   <mappers>
-    <mapper class="com.concretepage.VillageMapper" />
+    <mapper class="com.eric.VillageMapper" />
   </mappers>
 </configuration>

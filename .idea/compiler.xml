@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="MyBatis_Mysql_crud_main" target="1.8" />
+      <module name="MyBatis_Mysql_crud_test" target="1.8" />
       <module name="MyBatisDemo_main" target="1.8" />
       <module name="MyBatisDemo_test" target="1.8" />
     </bytecodeTargetLevel>
